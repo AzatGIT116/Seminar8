@@ -54,4 +54,3 @@ Console.WriteLine();
 PrintMatrix(arr);
 Console.WriteLine();
 MinLineRow(arr);
-
